@@ -152,6 +152,7 @@ public class Settings {
             Game.giantAnt = new Enemy("Giant Ant", 30, 5, 10, 5, 10, 10, firstInit, changeDif);
             Game.evilUnicorn = new Enemy("Evil Unicorn", 35, 30, 40, 5, 15, 20, firstInit, changeDif);
             Game.ogre = new Enemy("Ogre", 90, 20, 50, 10, 30, 50, firstInit, changeDif);
+            Game.dryad = new Enemy("Dryad", 60, 20,30,11, 21, 25, firstInit, changeDif);
 
             //Weapons
             //Gun:   (name, ammoUsed, ammoIncludedWithPurchase, buyable, price, ammoPrice, level, chanceOfMissing, firstInit, changeDif)
@@ -196,6 +197,7 @@ public class Settings {
             Game.giantAnt = new Enemy("Giant Ant", 30, 5, 10, 5, 10, 10, firstInit, changeDif);
             Game.evilUnicorn = new Enemy("Evil Unicorn", 35, 20, 40, 5, 15, 20, firstInit, changeDif);
             Game.ogre = new Enemy("Ogre", 100, 20, 50, 10, 30, 50, firstInit, changeDif);
+            Game.dryad = new Enemy("Dryad", 80, 35,40,15, 27, 45, firstInit, changeDif);
 
             //Weapons
             //Gun:   (name, ammoUsed, ammoIncludedWithPurchase, buyable, price, ammoPrice, level, chanceOfMissing, firstInit, changeDif)

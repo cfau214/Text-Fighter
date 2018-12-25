@@ -27,6 +27,7 @@ public class Game {
 	public static Enemy giantAnt;
 	public static Enemy evilUnicorn;
 	public static Enemy ogre;
+	public static Enemy dryad;
 
 	//Weapons
 	public static Weapon fists;
